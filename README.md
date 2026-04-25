@@ -1,3 +1,3 @@
 # Nélü ✨💜
 
-void* -> null;
+void* self = &self;
